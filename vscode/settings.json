@@ -1,0 +1,56 @@
+{
+  //! Theme
+  "editor.fontFamily": "Dank Mono",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Night Owl",
+  "material-icon-theme.folders.color": "#464D6D",
+
+  //! Editor
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSaveMode": "file",
+  "files.autoSave": "onFocusChange",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 2,
+  "editor.unicodeHighlight.allowedCharacters": {
+    "️": true
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "workbench.startupEditor": "none",
+
+  //! Terminal
+  "terminal.integrated.fontFamily": "MesloLGM NF",
+
+  //! Explorer
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": true,
+
+  //! Default formatters
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "[json][jsonc][yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  //! Spelling
+  "cSpell.language": "en,de",
+  "cSpell.enableFiletypes": ["!yaml"],
+  "cSpell.userWords": [
+    "esbenp",
+    "Meslo",
+    "powerline",
+    "prisma",
+    "shoutout",
+    "vscodes",
+    "winget"
+  ],
+  "svelte.enable-ts-plugin": true
+}

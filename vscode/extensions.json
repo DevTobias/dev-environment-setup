@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "EditorConfig.EditorConfig",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker-german",
+    "eamodio.gitlens",
+    "PKief.material-icon-theme",
+    "sdras.night-owl",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "Prisma.prisma",
+    "sibiraj-s.vscode-scss-formatter",
+    "svelte.svelte-vscode",
+    "fabiospampinato.vscode-terminals"
+  ]
+}
